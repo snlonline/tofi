@@ -7,14 +7,14 @@
 # Dotfiles circa 2023
 
 # Font
-font = JetBrainsMono Nerd Font
+font = FiraCode Nerd Font Ret
 font-size = 15
 
 # Window Style
 horizontal = true
 anchor = top
 width = 100%
-height = 34
+height = 30
 outline-width = 0
 border-width = 0
 min-input-width = 130
